@@ -1,3 +1,3 @@
 # EvenBus
 Android数据总线
-梵蒂冈梵蒂冈梵蒂冈
+该项目为evenbus初级入门的一个项目，主要为刚学习Android开发数据总线的菜鸟研究、
